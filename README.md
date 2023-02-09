@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm David Robison</h1>
-<h3 align="center">A passionate frontend developer from Utah</h3>
+<h3 align="center">A passionate web developer based in Parowan, UT</h3>
+<p>I have experience working with HTML, CSS, JavaScript, ReactJS, Linux, Git, and Terminal. As a self-starter, I'm always looking for new challenges and opportunities to grow my skills. My proudest projects include a full recreation of The Movie Database website (TMDB) and a mock-up of an online store.
+
+My future goals are to continue to expand my knowledge and become a full-stack developer. I'm currently pursuing a degree in Computer Science, which will provide me with a deeper understanding of the industry and help me achieve my goal. I'm also eager to learn more about back-end development and continue to hone my skills in this area.
+
+When I'm not coding or studying, you can find me playing DnD, online gaming, off roading, or reading a good book. I'm excited to share my work on GitHub and see where this journey takes me!</p>
 
 - 🔭 I’m currently working on [Movie Database](https://github.com/robisonwebdev/movie-db)
 
