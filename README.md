@@ -12,7 +12,7 @@ When I'm not coding or studying, you can find me playing DnD, online gaming, off
 
 - 👨‍💻 My portfolio is available at [https://robisonweb.dev/](https://robisonweb.dev/)
 
-- 📫 How to reach me **david@robisonweb.dev**
+- 📫 How to reach me **drbr56@gmail.com** || **david@robisonweb.dev** (gets forward to first email address)
 
 - 📄 View my [Resume](https://docs.google.com/document/d/19S_vAO2uxoJA6nQJ9bMvMhjw8qpjH53LR5EcIDGzT-g/edit?usp=sharing)
 
